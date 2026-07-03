@@ -9,12 +9,12 @@
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me
 
 <div align="center">
-
-<img align="right" alt="Developer Animation" width="350" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*krJsZsRUsIz3kCEW8VaC0A.gif">
+  
+### <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Transforming+Ideas+into+Digital+Reality;Building+Tomorrow's+Technology+Today;Crafting+Exceptional+User+Experiences;Solving+Complex+Problems+with+Code" alt="Professional Tagline" />
 
 </div>
 
-
+<img align="right" alt="Developer Animation" width="350" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*krJsZsRUsIz3kCEW8VaC0A.gif">
 
 Hello 👋 </br>
 🚀 | Passionate about crafting engaging and intuitive user experiences </br>
@@ -23,7 +23,7 @@ Hello 👋 </br>
 - 💬 I'm currently working on **Vue.js and Laravel 11/12/13** 
 - 📚 Always learning new technologies and improving my craft
 - ⚡ Check out my latest website: <a href="https://#" target="_blank">latest website</a> <img src="hot.gif" />
-- 💻 Check my Portifolio <a href="https://fitsumengineer.netlify.app/" target="_blank">Portfolio</a>
+- 💻 Check my Portifolio <a href="https://kalkidanportfolionew1.netlify.app" target="_blank">Portfolio</a>
 
 </br>
 </br>
@@ -55,10 +55,10 @@ Hello 👋 </br>
 
 ### 🌟 **Let's Connect and Create Magic!**
 </br>
-<a href="mailto:fitsumgashaw22@gmail.com">
+<a href="mailto:mengistukalkidan16@gmail.com">
   <img src="https://img.shields.io/badge/📧_Email_Me-FF6B6B?style=for-the-badge&logoColor=white" alt="Email" height="50">
 </a>
-<a href="https://t.me/StormX_official">
+<a href="https://t.me/Kalinannnn16">
   <img src="https://img.shields.io/badge/💬_Telegram-00D9FF?style=for-the-badge&logoColor=white" alt="Schedule" height="50">
 </a>
 <a href="https://kalkidanportfolionew1.netlify.app">
