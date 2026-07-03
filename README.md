@@ -10,7 +10,7 @@
 
 <div align="center">
 
-
+<img align="right" alt="Developer Animation" width="350" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*krJsZsRUsIz3kCEW8VaC0A.gif">
 
 </div>
 
